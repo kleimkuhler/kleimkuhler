@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kleimkuhler.github.io/kleimkuhler/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kleimkuhler.github.io/kleimkuhler/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kleimkuhler.github.io/kleimkuhler/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
