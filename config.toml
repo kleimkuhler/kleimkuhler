@@ -1,5 +1,5 @@
 baseURL = "https://kleimkuhler.github.io/kleimkuhler"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "blank"
+title = "kleimkuhler"
+theme = "hugo-classic"
 publishDir = "docs"
